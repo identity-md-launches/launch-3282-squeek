@@ -1,0 +1,10 @@
+# Foundry build artifacts
+out/
+cache/
+broadcast/
+
+# Scratch space for local checks; deleted before verification
+test/scratch/
+
+# Empty leftover of the upstream OpenZeppelin clone; the vendored sources live in lib/openzeppelin/
+lib/openzeppelin-contracts/
